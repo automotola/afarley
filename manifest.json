@@ -38,7 +38,7 @@
 		}
 	],
 	"theme_color": "#000000",
-	"start_url": "https:\/\/afarley.co",
+	"start_url": "/",
 	"display": "fullscreen",
 	"orientation": "portrait"
 }
