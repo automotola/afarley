@@ -73,8 +73,8 @@
         "type": "image/png"
     	}
 	],
-	"theme_color": "#000000",
+	"theme_color": "#fff",
 	"start_url": "/",
-	"display": "standalone",
+	"display": "fullscreen",
 	"orientation": "portrait"
 }
