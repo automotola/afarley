@@ -1,5 +1,6 @@
 {
-	"name": "Afarley",
+	"name": "Afarley Music",
+	"short_name": "Afarley",
 	"icons": [
 		{
 			"src": "\/android-chrome-36x36.png",
@@ -35,38 +36,45 @@
 			"src": "\/android-chrome-256x256.png",
 			"sizes": "256x256",
 			"type": "image\/png"
-		}, {
-        "src": "\/apple-touch-icon.png",
-        "sizes": "180x180",
-        "type": "image/png"
-    	},  {
-        "src": "\/apple-touch-icon-76x76.png",
-        "sizes": "76x76",
-        "type": "image/png"
-    	}, {
-        "src": "\/apple-touch-icon-60x60.png",
-        "sizes": "60x60",
-        "type": "image/png"
-    	}, {
-        "src": "\/apple-touch-icon-57x57.png",
-        "sizes": "57x57",
-        "type": "image/png"
-    	}, {
-        "src": "\/apple-touch-icon-152x152.png",
-        "sizes": "152x152",
-        "type": "image/png"
-    	}, {
-        "src": "\/apple-touch-icon-120x120.png",
-        "sizes": "120x120",
-        "type": "image/png"
-    	}, {
-        "src": "\/apple-touch-icon-114x114.png",
-        "sizes": "114x114",
-        "type": "image/png"
+		}, 
+		{
+        	"src": "\/apple-touch-icon.png",
+        	"sizes": "180x180",
+        	"type": "image/png"
+    	},  
+    	{
+        	"src": "\/apple-touch-icon-76x76.png",
+        	"sizes": "76x76",
+        	"type": "image/png"
+    	}, 
+    	{
+        	"src": "\/apple-touch-icon-60x60.png",
+        	"sizes": "60x60",
+        	"type": "image/png"
+    	}, 
+    	{
+        	"src": "\/apple-touch-icon-57x57.png",
+        	"sizes": "57x57",
+        	"type": "image/png"
+    	}, 
+    	{
+        	"src": "\/apple-touch-icon-152x152.png",
+        	"sizes": "152x152",
+        	"type": "image/png"
+    	}, 
+    	{
+        	"src": "\/apple-touch-icon-120x120.png",
+        	"sizes": "120x120",
+        	"type": "image/png"
+    	}, 
+    	{
+        	"src": "\/apple-touch-icon-114x114.png",
+        	"sizes": "114x114",
+        	"type": "image/png"
     	}
 	],
-	"theme_color": "#fff",
-	"start_url": "/",
+	"theme_color": "#000",
+	"start_url": "https://afarley.co",
 	"display": "standalone",
 	"orientation": "portrait"
 }
